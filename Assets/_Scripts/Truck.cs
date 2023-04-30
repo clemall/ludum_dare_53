@@ -44,7 +44,7 @@ public class Truck : MonoBehaviour
     void Start()
     {
         driverAskedLoad.SetActive(false);
-        transform.DOMoveX(finalPosition, durationAnimationTruck).SetEase(Ease.OutQuad).OnComplete(OpenDoor).SetId("toBePause");
+        transform.DOMoveX(finalPosition, durationAnimationTruck).SetId("toBePause").SetEase(Ease.OutQuad).OnComplete(OpenDoor);
     }
 
     // Update is called once per frame
@@ -69,7 +69,7 @@ public class Truck : MonoBehaviour
     [Button("Leave Truck")]
     public void LeaveTruck()
     {
-        transform.DOMoveX(startPosition - 5f, durationAnimationTruck + 1f).SetEase(Ease.InCirc);
+        transform.DOMoveX(startPosition - 5f, durationAnimationTruck + 1f).SetId("toBePause").SetEase(Ease.InCirc);
         truckStart.Play();
         CleanParcels();
         CheckLost();
@@ -132,10 +132,10 @@ public class Truck : MonoBehaviour
     {
         
         
-        hidingLayerSprite.DOFade(1f, durationAnimationDoor).SetDelay(durationDoorOpen).SetId("toBePause");
+        hidingLayerSprite.DOFade(1f, durationAnimationDoor).SetId("toBePause").SetDelay(durationDoorOpen);
         CanvasGroup childrenHidingLayer = hidingLayerSprite.GetComponentInChildren<CanvasGroup>();
-        childrenHidingLayer.DOFade(1f, durationAnimationDoor).SetDelay(durationDoorOpen).SetId("toBePause");
-        door.DOScaleX(_doorScaleX, durationAnimationDoor).SetEase(Ease.OutQuad).SetDelay(durationDoorOpen).OnComplete(LeaveTruck).SetId("toBePause");
+        childrenHidingLayer.DOFade(1f, durationAnimationDoor).SetId("toBePause").SetDelay(durationDoorOpen);
+        door.DOScaleX(_doorScaleX, durationAnimationDoor).SetId("toBePause").SetEase(Ease.OutQuad).SetDelay(durationDoorOpen).OnComplete(LeaveTruck);
 
     }
 

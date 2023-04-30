@@ -74,7 +74,7 @@ public class ParcelSpawner : MonoBehaviour
                 continue;
             }
 
-            if (parcelsInGame.Count < 15)
+            if (parcelsInGame.Count < 12)
             {
               SpawnParcel(); 
             }

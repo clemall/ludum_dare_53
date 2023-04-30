@@ -32,11 +32,11 @@ public class TruckDriverAskedLoad : MonoBehaviour
         }
         else if (r == 2)
         {
-             uiText.text = "That wasn't to long for " + currentScore.ToString() + "Kg." ;
+             uiText.text = "That wasn't too long for " + currentScore.ToString() + "Kg." ;
         }
         else if (r == 3)
         {
-             uiText.text = "How can you transport " + currentScore.ToString() + "Kg of parcels so fast? bye." ;
+             uiText.text = "How can you transport " + currentScore.ToString() + "Kg of parcels so fast? Impressive." ;
         }
         
     }
