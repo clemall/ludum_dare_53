@@ -80,9 +80,8 @@ public class Truck : MonoBehaviour
     {
         yield return new WaitForSeconds(durationAnimationTruck + 2f);
 
-        if (gameObject.activeSelf)
+        if (gameObject.activeSelf && GameManager.instance.isGameover == false)
         {
-            print("ok");
             TruckSpawner.instance.SpawnTruck();
             // Destroy(gameObject);
             gameObject.SetActive(false);

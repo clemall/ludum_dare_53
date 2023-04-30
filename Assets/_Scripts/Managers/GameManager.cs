@@ -35,15 +35,11 @@ public class GameManager : MonoBehaviour
         isPause = true;
         
         DOTween.Pause("toBePause");
-
-        // Time.timeScale = 0.1f;
     }
 
     public void UnPause(){
         isPause = false;
         DOTween.PlayAll();
-        
-        // Time.timeScale = 1f;
     }
 
 

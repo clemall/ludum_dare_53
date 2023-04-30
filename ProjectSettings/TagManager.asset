@@ -44,3 +44,6 @@ TagManager:
   - name: top
     uniqueID: 513703583
     locked: 0
+  - name: Truck
+    uniqueID: 2533675887
+    locked: 0

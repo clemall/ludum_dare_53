@@ -26,9 +26,10 @@ public class TruckPoints : MonoBehaviour
         if (timer == null)
         {
             return;
+            
         }
         timer.localScale = new Vector3(1, 1, 1);
-        timer.DOScaleX(0, duration).SetId("toBePause");
+        timer.DOScaleX(0, duration).SetEase(Ease.Linear).SetId("toBePause");
     }
 
     private void UpdateScore(int score, int min, int max)

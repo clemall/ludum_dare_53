@@ -146,7 +146,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 898
+      x: 956
       y: 1048
       width: 64
       height: 64
@@ -158,7 +158,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 898, y: 1048}
+    uvTransform: {x: 956, y: 1048}
   - name: package_small_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -166,7 +166,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 626
+      x: 747
       y: 1138
       width: 64
       height: 64
@@ -178,7 +178,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 626, y: 1138}
+    uvTransform: {x: 747, y: 1138}
   - name: basket
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -186,7 +186,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 770
+      x: 963
       y: 1138
       width: 48
       height: 48
@@ -198,7 +198,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 770, y: 1138}
+    uvTransform: {x: 963, y: 1138}
   - name: Door
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -246,7 +246,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 698
+      x: 819
       y: 1194
       width: 46
       height: 49
@@ -258,7 +258,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 698, y: 1194}
+    uvTransform: {x: 819, y: 1194}
   - name: Driver_load_asked
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -306,8 +306,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 956
-      y: 1138
+      x: 626
+      y: 1470
       width: 27
       height: 26
     spriteID: eb6651f74d05289469240af7da01a447
@@ -318,7 +318,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 956, y: 1138}
+    uvTransform: {x: 626, y: 1470}
   - name: Balance 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -346,8 +346,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 669
-      y: 1210
+      x: 999
+      y: 1194
       width: 17
       height: 21
     spriteID: b79bfea0bba105e4f9bc1507df1521bf
@@ -358,7 +358,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 669, y: 1210}
+    uvTransform: {x: 999, y: 1194}
   - name: background_simple
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -366,8 +366,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 991
-      y: 1138
+      x: 909
+      y: 1236
       width: 16
       height: 16
     spriteID: 535950ee789317b4f8dbd3a5dc0ce35f
@@ -378,7 +378,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 991, y: 1138}
+    uvTransform: {x: 909, y: 1236}
   - name: menuUI
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -386,8 +386,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 869
-      y: 1138
+      x: 952
+      y: 1194
       width: 39
       height: 29
     spriteID: 52ee4338454002749827ed2fab73b79c
@@ -398,7 +398,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 869, y: 1138}
+    uvTransform: {x: 952, y: 1194}
   - name: Timbre
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -406,7 +406,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 626
+      x: 747
       y: 1210
       width: 35
       height: 34
@@ -418,7 +418,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 626, y: 1210}
+    uvTransform: {x: 747, y: 1210}
   - name: timbre2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -426,8 +426,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 826
-      y: 1138
+      x: 909
+      y: 1194
       width: 35
       height: 34
     spriteID: 283d35aa4618ebf42b62d3f9b199d2d6
@@ -438,7 +438,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 826, y: 1138}
+    uvTransform: {x: 909, y: 1194}
   - name: Truck3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -526,10 +526,10 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 970
+      x: 898
       y: 1048
-      width: 48
-      height: 80
+      width: 50
+      height: 82
     spriteID: 57a43206fe81d6245956ed256ad9675d
     spriteBone: []
     spriteOutline: []
@@ -538,7 +538,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 970, y: 1048}
+    uvTransform: {x: 898, y: 1048}
   - name: Kettlebells
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -546,8 +546,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 626
-      y: 1387
+      x: 873
+      y: 1194
       width: 28
       height: 43
     spriteID: 26e254bec6a6b3c43affe36f8306862b
@@ -558,7 +558,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 626, y: 1387}
+    uvTransform: {x: 873, y: 1194}
   - name: longStuff
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -586,7 +586,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 698
+      x: 819
       y: 1138
       width: 64
       height: 48
@@ -598,7 +598,7 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 698, y: 1138}
+    uvTransform: {x: 819, y: 1138}
   - name: Sensitive
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -606,8 +606,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 916
-      y: 1138
+      x: 626
+      y: 1430
       width: 32
       height: 32
     spriteID: 615f8096ab1f8b94384b0a29d361ebd8
@@ -618,7 +618,87 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    uvTransform: {x: 916, y: 1138}
+    uvTransform: {x: 626, y: 1430}
+  - name: Tuto
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1138
+      width: 113
+      height: 103
+    spriteID: 5baa7803ca484cd4bacfb15987820968
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1138}
+  - name: postit
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 790
+      y: 1210
+      width: 16
+      height: 16
+    spriteID: e5798e1b201c93e4ab150160b109299c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 790, y: 1210}
+  - name: Calendar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1387
+      width: 32
+      height: 35
+    spriteID: 960af5aadd2dfe3479273857a63b7ebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1387}
+  - name: kanban
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 891
+      y: 1138
+      width: 64
+      height: 48
+    spriteID: aa03b4c9d63e4824689dac56f7f528eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 891, y: 1138}
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
@@ -971,10 +1051,10 @@ ScriptedImporter:
     - name: Vase
       frameIndex: 0
       cellRect:
-        x: 568
-        y: 428
-        width: 48
-        height: 80
+        x: 567
+        y: 427
+        width: 50
+        height: 82
       spriteId: 57a43206fe81d6245956ed256ad9675d
     linkedCells: []
     parentIndex: -1
@@ -1044,6 +1124,74 @@ ScriptedImporter:
         width: 32
         height: 32
       spriteId: 615f8096ab1f8b94384b0a29d361ebd8
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 25
+    guid: 1919802585
+    name: Tuto
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Tuto
+      frameIndex: 0
+      cellRect:
+        x: 369
+        y: 188
+        width: 113
+        height: 103
+      spriteId: 5baa7803ca484cd4bacfb15987820968
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 26
+    guid: -1186063625
+    name: postit
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: postit
+      frameIndex: 0
+      cellRect:
+        x: 672
+        y: 252
+        width: 16
+        height: 16
+      spriteId: e5798e1b201c93e4ab150160b109299c
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 27
+    guid: 2140056643
+    name: Calendar
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Calendar
+      frameIndex: 0
+      cellRect:
+        x: 672
+        y: 204
+        width: 32
+        height: 35
+      spriteId: 960af5aadd2dfe3479273857a63b7ebd
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 28
+    guid: -1325050231
+    name: kanban
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: kanban
+      frameIndex: 0
+      cellRect:
+        x: 672
+        y: 140
+        width: 64
+        height: 48
+      spriteId: aa03b4c9d63e4824689dac56f7f528eb
     linkedCells: []
     parentIndex: -1
   platformSettings:

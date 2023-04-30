@@ -230,12 +230,12 @@ MonoBehaviour:
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 1
-  m_colorMode: 1
+  m_colorMode: 0
   m_fontColorGradient:
     topLeft: {r: 0.6745098, g: 0.19607845, b: 0.19607845, a: 1}
-    topRight: {r: 1, g: 0.4874805, b: 0, a: 1}
+    topRight: {r: 0.6745098, g: 0.19607845, b: 0.19607845, a: 1}
     bottomLeft: {r: 0.6745098, g: 0.19607845, b: 0.19607845, a: 1}
-    bottomRight: {r: 1, g: 0.4874805, b: 0, a: 1}
+    bottomRight: {r: 0.6745098, g: 0.19607845, b: 0.19607845, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
@@ -346,8 +346,8 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 0
-  m_SortingOrder: 35
+  m_SortingLayerID: 513703583
+  m_SortingOrder: 31
   m_TargetDisplay: 0
 --- !u!114 &3404633822704755631
 MonoBehaviour:
@@ -1360,8 +1360,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 513703583
+  m_SortingLayer: 1
   m_SortingOrder: 23
   m_Sprite: {fileID: -6121894146060795079, guid: 4e99b96af5723df4c947a7894c58ed4d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
