@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 4e99b96af5723df4c947a7894c58ed4d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 32
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638184087418065759
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Package_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 778
+      y: 1048
+      width: 112
+      height: 64
+    spriteID: db4df4d84d3d7dc4c9fa73e972ca1f22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 778, y: 1048}
+  - name: package_small_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 898
+      y: 1048
+      width: 64
+      height: 64
+    spriteID: febd3cd317d57b44db1a375cd05fea43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 898, y: 1048}
+  - name: package_small_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1138
+      width: 64
+      height: 64
+    spriteID: 7efe07714a88cee41a4a95badd0a3662
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1138}
+  - name: basket
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 770
+      y: 1138
+      width: 48
+      height: 48
+    spriteID: 5ffdb65d399725244b9e95d9325adbcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 770, y: 1138}
+  - name: Door
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 666
+      y: 1260
+      width: 12
+      height: 270
+    spriteID: 36ca712b754f06844b3fc58720578c25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 666, y: 1260}
+  - name: Lamp
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1260
+      width: 32
+      height: 119
+    spriteID: 6100fe79bda9c9e4ea840047398326d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1260}
+  - name: Conveyor
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 1194
+      width: 46
+      height: 49
+    spriteID: cc0870409c5cfaa4681c6cfd2b4f7703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 1194}
+  - name: Driver_load_asked
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 842
+      y: 930
+      width: 150
+      height: 104
+    spriteID: 05f35348cbe98264791ff884909b3686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 842, y: 930}
+  - name: Balance
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 402
+      height: 542
+    spriteID: 8d84f2eda9c8a42499d286e72b45e8a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 380}
+  - name: Arrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 956
+      y: 1138
+      width: 27
+      height: 26
+    spriteID: eb6651f74d05289469240af7da01a447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 956, y: 1138}
+  - name: Balance 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 930
+      width: 208
+      height: 110
+    spriteID: 846b9b543e5d2544f8474c49c2d0eafd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 930}
+  - name: chrono
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 669
+      y: 1210
+      width: 17
+      height: 21
+    spriteID: b79bfea0bba105e4f9bc1507df1521bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 669, y: 1210}
+  - name: background_simple
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 991
+      y: 1138
+      width: 16
+      height: 16
+    spriteID: 535950ee789317b4f8dbd3a5dc0ce35f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 991, y: 1138}
+  - name: menuUI
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 869
+      y: 1138
+      width: 39
+      height: 29
+    spriteID: 52ee4338454002749827ed2fab73b79c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 869, y: 1138}
+  - name: Timbre
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1210
+      width: 35
+      height: 34
+    spriteID: 7a1d54976ffc19f4cab98f0458b1b5b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1210}
+  - name: timbre2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 826
+      y: 1138
+      width: 35
+      height: 34
+    spriteID: 283d35aa4618ebf42b62d3f9b199d2d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 826, y: 1138}
+  - name: Truck3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 930
+      width: 614
+      height: 322
+    spriteID: 57755701b0a01db45b89515081299742
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 930}
+  - name: Truck
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 614
+      height: 368
+    spriteID: eaf7391f266a7fa4f932810a67ee24c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: truck2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1260
+      width: 614
+      height: 322
+    spriteID: de89993b73a7d1442bc0eb83aa24a59c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1260}
+  - name: Tv
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1048
+      width: 144
+      height: 82
+    spriteID: 7c4faaec344844d489a611ed9665cde3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1048}
+  - name: Vase
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 970
+      y: 1048
+      width: 48
+      height: 80
+    spriteID: 57a43206fe81d6245956ed256ad9675d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 1048}
+  - name: Kettlebells
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 626
+      y: 1387
+      width: 28
+      height: 43
+    spriteID: 26e254bec6a6b3c43affe36f8306862b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 626, y: 1387}
+  - name: longStuff
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1000
+      y: 930
+      width: 16
+      height: 94
+    spriteID: 781cd6b7955b85e4fbd81f8edc336dc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 930}
+  - name: darkPackage
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 698
+      y: 1138
+      width: 64
+      height: 48
+    spriteID: ea792d4662e43b644a3401ec7f23d899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 698, y: 1138}
+  - name: Sensitive
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 1138
+      width: 32
+      height: 32
+    spriteID: 615f8096ab1f8b94384b0a29d361ebd8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1138}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1048169438
+    name: Package_1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Package_1
+      frameIndex: 0
+      cellRect:
+        x: 768
+        y: 92
+        width: 112
+        height: 64
+      spriteId: db4df4d84d3d7dc4c9fa73e972ca1f22
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 1
+    guid: -326908754
+    name: package_small_2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: package_small_2
+      frameIndex: 0
+      cellRect:
+        x: 816
+        y: 204
+        width: 64
+        height: 64
+      spriteId: febd3cd317d57b44db1a375cd05fea43
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 2
+    guid: -326909152
+    name: package_small_1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: package_small_1
+      frameIndex: 0
+      cellRect:
+        x: 736
+        y: 204
+        width: 64
+        height: 64
+      spriteId: 7efe07714a88cee41a4a95badd0a3662
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 3
+    guid: 1930767195
+    name: basket
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: basket
+      frameIndex: 0
+      cellRect:
+        x: 832
+        y: 300
+        width: 48
+        height: 48
+      spriteId: 5ffdb65d399725244b9e95d9325adbcb
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 6
+    guid: -1909541112
+    name: Door
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Door
+      frameIndex: 0
+      cellRect:
+        x: 639
+        y: 121
+        width: 12
+        height: 270
+      spriteId: 36ca712b754f06844b3fc58720578c25
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 4
+    guid: -1598489396
+    name: Lamp
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Lamp
+      frameIndex: 0
+      cellRect:
+        x: 768
+        y: 300
+        width: 32
+        height: 119
+      spriteId: 6100fe79bda9c9e4ea840047398326d8
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 7
+    guid: 1795581046
+    name: Conveyor
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Conveyor
+      frameIndex: 0
+      cellRect:
+        x: 914
+        y: 387
+        width: 46
+        height: 49
+      spriteId: cc0870409c5cfaa4681c6cfd2b4f7703
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 8
+    guid: 1731370858
+    name: Driver_load_asked
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Driver_load_asked
+      frameIndex: 0
+      cellRect:
+        x: 165
+        y: 73
+        width: 150
+        height: 104
+      spriteId: 05f35348cbe98264791ff884909b3686
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 9
+    guid: -1456233905
+    name: Balance
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Balance
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: -2
+        width: 402
+        height: 542
+      spriteId: 8d84f2eda9c8a42499d286e72b45e8a6
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 10
+    guid: 321346959
+    name: Arrow
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Arrow
+      frameIndex: 0
+      cellRect:
+        x: 203
+        y: 453
+        width: 27
+        height: 26
+      spriteId: eb6651f74d05289469240af7da01a447
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 11
+    guid: -2052955845
+    name: Balance 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Balance 2
+      frameIndex: 0
+      cellRect:
+        x: 293
+        y: 430
+        width: 208
+        height: 110
+      spriteId: 846b9b543e5d2544f8474c49c2d0eafd
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 12
+    guid: -1287132269
+    name: chrono
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: chrono
+      frameIndex: 0
+      cellRect:
+        x: 48
+        y: 424
+        width: 17
+        height: 21
+      spriteId: b79bfea0bba105e4f9bc1507df1521bf
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 13
+    guid: -319410266
+    name: background_simple
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: background_simple
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 364
+        width: 16
+        height: 16
+      spriteId: 535950ee789317b4f8dbd3a5dc0ce35f
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 14
+    guid: 1418829757
+    name: menuUI
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: menuUI
+      frameIndex: 0
+      cellRect:
+        x: 912
+        y: 239
+        width: 39
+        height: 29
+      spriteId: 52ee4338454002749827ed2fab73b79c
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 15
+    guid: -1632827474
+    name: Timbre
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Timbre
+      frameIndex: 0
+      cellRect:
+        x: 704
+        y: 26
+        width: 35
+        height: 34
+      spriteId: 7a1d54976ffc19f4cab98f0458b1b5b0
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 16
+    guid: -1134900025
+    name: timbre2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: timbre2
+      frameIndex: 0
+      cellRect:
+        x: 747
+        y: 26
+        width: 35
+        height: 34
+      spriteId: 283d35aa4618ebf42b62d3f9b199d2d6
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 18
+    guid: -2067671400
+    name: Truck3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Truck3
+      frameIndex: 0
+      cellRect:
+        x: 13
+        y: 23
+        width: 614
+        height: 322
+      spriteId: 57755701b0a01db45b89515081299742
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 5
+    guid: 173829906
+    name: Truck
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Truck
+      frameIndex: 0
+      cellRect:
+        x: 13
+        y: 23
+        width: 614
+        height: 368
+      spriteId: eaf7391f266a7fa4f932810a67ee24c2
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 17
+    guid: -1049011880
+    name: truck2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: truck2
+      frameIndex: 0
+      cellRect:
+        x: 13
+        y: 23
+        width: 614
+        height: 322
+      spriteId: de89993b73a7d1442bc0eb83aa24a59c
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 19
+    guid: 845345123
+    name: Tv
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Tv
+      frameIndex: 0
+      cellRect:
+        x: 720
+        y: 442
+        width: 144
+        height: 82
+      spriteId: 7c4faaec344844d489a611ed9665cde3
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 20
+    guid: 885449589
+    name: Vase
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Vase
+      frameIndex: 0
+      cellRect:
+        x: 568
+        y: 428
+        width: 48
+        height: 80
+      spriteId: 57a43206fe81d6245956ed256ad9675d
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 21
+    guid: -1150737966
+    name: Kettlebells
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Kettlebells
+      frameIndex: 0
+      cellRect:
+        x: 653
+        y: 464
+        width: 28
+        height: 43
+      spriteId: 26e254bec6a6b3c43affe36f8306862b
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 22
+    guid: -381121620
+    name: longStuff
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: longStuff
+      frameIndex: 0
+      cellRect:
+        x: 896
+        y: 437
+        width: 16
+        height: 94
+      spriteId: 781cd6b7955b85e4fbd81f8edc336dc9
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 23
+    guid: 1112931105
+    name: darkPackage
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: darkPackage
+      frameIndex: 0
+      cellRect:
+        x: 864
+        y: 28
+        width: 64
+        height: 48
+      spriteId: ea792d4662e43b644a3401ec7f23d899
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 24
+    guid: 993299858
+    name: Sensitive
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Sensitive
+      frameIndex: 0
+      cellRect:
+        x: 896
+        y: 124
+        width: 32
+        height: 32
+      spriteId: 615f8096ab1f8b94384b0a29d361ebd8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 960, y: 540}
