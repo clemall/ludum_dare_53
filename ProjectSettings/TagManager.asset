@@ -41,15 +41,3 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: megatop
-    uniqueID: 2194222325
-    locked: 0
-  - name: top
-    uniqueID: 513703583
-    locked: 0
-  - name: Truck
-    uniqueID: 2533675887
-    locked: 0
-  - name: back
-    uniqueID: 565262647
-    locked: 0

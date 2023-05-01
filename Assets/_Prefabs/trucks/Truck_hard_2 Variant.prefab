@@ -72,9 +72,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1761291409
-  m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.11764707, g: 0.5882353, b: 0.8235295, a: 1}
   m_FlipX: 0
@@ -218,9 +218,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Truck_hard_2 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 2468387363094525916, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2529650364619262464, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayer
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2529650364619262464, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayerID
@@ -228,7 +232,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5120201826683372236, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayerID
-      value: -1761291409
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5551595255387311673, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayerID
@@ -248,7 +252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9107645572524315276, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayer
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9107645572524315276, guid: 663384dfc6421aa4c9c976421b4161c5, type: 3}
       propertyPath: m_SortingLayerID
